@@ -1,0 +1,9 @@
+﻿  main.cpp
+  creatures.cpp
+g:\users\roger\documents\upc\programació\rpg fighter - roger sanchez march\project5\creatures.cpp(72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\users\roger\documents\upc\programació\rpg fighter - roger sanchez march\project5\creatures.cpp(833): warning C4129: '	': unrecognized character escape sequence
+g:\users\roger\documents\upc\programació\rpg fighter - roger sanchez march\project5\creatures.cpp(835): warning C4129: ' ': unrecognized character escape sequence
+g:\users\roger\documents\upc\programació\rpg fighter - roger sanchez march\project5\creatures.cpp(843): warning C4129: ' ': unrecognized character escape sequence
+  Generating Code...
+  Project5.vcxproj -> G:\Users\Roger\Documents\UPC\Programació\RPG Fighter - Roger Sanchez March\Debug\RPG Fighter.exe
+  Project5.vcxproj -> G:\Users\Roger\Documents\UPC\Programació\RPG Fighter - Roger Sanchez March\Debug\RPG Fighter.pdb (Full PDB)
